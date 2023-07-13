@@ -1,0 +1,2 @@
+﻿systemc.lib(sc_main_main.obj) : error LNK2001: unresolved external symbol sc_main
+D:\Visual_stdio\demo_03\x64\Release\demo_03.exe : fatal error LNK1120: 1 unresolved externals
